@@ -1,1 +1,1 @@
-Contains all question which are goof for practice
+Contains DSA question which are good for practice

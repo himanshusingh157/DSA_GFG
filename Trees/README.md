@@ -1,6 +1,7 @@
 # Easy
 - [Check for BST](https://www.geeksforgeeks.org/problems/check-for-bst/1)
 - [Balanced Tree Check](https://www.geeksforgeeks.org/problems/check-for-balanced-tree/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
+- [Lowest Common Ancestor in a BST](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
 
 # Medium
 - [k-th Smallest in BST](https://www.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1)

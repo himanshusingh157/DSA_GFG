@@ -5,4 +5,4 @@
 - [Unique BST's](https://www.geeksforgeeks.org/problems/unique-bsts-1587115621/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
 
 # Hard
--[Matrix Chain Multiplication](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
+- [Matrix Chain Multiplication](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)

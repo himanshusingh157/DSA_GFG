@@ -1,2 +1,4 @@
+# Easy
+- [Reverse a linked list](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1)
 # Medium
 - [Detect Loop in linked list](https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
